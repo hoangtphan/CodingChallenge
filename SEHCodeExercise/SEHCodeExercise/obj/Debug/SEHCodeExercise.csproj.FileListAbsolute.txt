@@ -1,0 +1,9 @@
+\\Mac\Home\Desktop\SEHCodeExercise\SEHCodeExercise\bin\Debug\SEHCodeExercise.exe.config
+\\Mac\Home\Desktop\SEHCodeExercise\SEHCodeExercise\bin\Debug\SEHCodeExercise.exe
+\\Mac\Home\Desktop\SEHCodeExercise\SEHCodeExercise\bin\Debug\SEHCodeExercise.pdb
+\\Mac\Home\Desktop\SEHCodeExercise\SEHCodeExercise\obj\Debug\SEHCodeExercise.csprojResolveAssemblyReference.cache
+\\Mac\Home\Desktop\SEHCodeExercise\SEHCodeExercise\obj\Debug\SEHCodeExercise.Form1.resources
+\\Mac\Home\Desktop\SEHCodeExercise\SEHCodeExercise\obj\Debug\SEHCodeExercise.Properties.Resources.resources
+\\Mac\Home\Desktop\SEHCodeExercise\SEHCodeExercise\obj\Debug\SEHCodeExercise.csproj.GenerateResource.Cache
+\\Mac\Home\Desktop\SEHCodeExercise\SEHCodeExercise\obj\Debug\SEHCodeExercise.exe
+\\Mac\Home\Desktop\SEHCodeExercise\SEHCodeExercise\obj\Debug\SEHCodeExercise.pdb
